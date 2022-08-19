@@ -16,7 +16,7 @@
 - i also utilize grid and also learn about it.
 
 #### Time-Taken
-- it takes almost 3-4 hours to complete this project.
+- it takes almost 2-3 hours to complete this project.
 ---
 [visit This Website](https://saas-landingp.netlify.app/)
 ---
